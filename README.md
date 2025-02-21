@@ -1,6 +1,6 @@
 # Walmart Sales Data Analysis
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
 ## Project Overview
 This project involves analyzing Walmart's sales data to answer several business-related questions using SQL and Python. 
