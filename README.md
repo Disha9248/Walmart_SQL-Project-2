@@ -13,7 +13,7 @@ and operational performance.
 ##  Steps Followed In This Project
 
 ### 1. Set Up the Environment
-   - **Tools Used**: Visual Studio Code (VS Code), Python, Jupyter Notebook, SQL (MySQL and PostgreSQL)
+   - **Tools Used**: Visual Studio Code (VS Code), Python, Jupyter Notebook, SQL (PostgreSQL)
    - **Goal**: Created a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 ### 2. Set Up Kaggle API
@@ -53,8 +53,8 @@ and operational performance.
    - **Enhance Dataset**: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
 
 ### 8. Load Data into MySQL and PostgreSQL
-   - **Set Up Connections**: Connected to MySQL and PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
-   - **Table Creation**: Set up tables in both MySQL and PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
+   - **Set Up Connections**: Connected to PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
+   - **Table Creation**: Set up tables in PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
    - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
@@ -71,7 +71,7 @@ and operational performance.
 ## Technologies Used
 
 - **Python**: For preprocessing and exploratory data analysis.
-- **SQL Databases**: For querying the dataset (MySQL, PostgreSQL)
+- **SQL Databases**: For querying the dataset (PostgreSQL)
 - **Python Libraries**: To load and manipulate data in Python.
   - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
 - **Kaggle API Key**: For data downloading
